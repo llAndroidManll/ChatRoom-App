@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802529940805",
+    "project_id": "chatbot-app-6d760",
+    "storage_bucket": "chatbot-app-6d760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802529940805:android:9acb1ab0c7d21d68a29a2c",
+        "android_client_info": {
+          "package_name": "sahak.sahakyan.chatbotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxBjeHDZf3gi7fw5Ay4lEYH4Y4nDcPfyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
